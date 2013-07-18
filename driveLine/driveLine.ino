@@ -14,7 +14,7 @@ void setup()
  
  
 void loop()
-{
+{z
   for(pos = 90; pos < 120; pos += 1)  // goes from 0 degrees to 180 degrees
   {                                  // in steps of 1 degree
     left.write(pos);
